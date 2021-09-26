@@ -34,6 +34,7 @@ function recursion(obj, nextObj) {
 let u = recursion(user, user2);
 console.log(u)
 
+
 user2.name = "ghgd"
 user2.age = 44
 console.log(u)
